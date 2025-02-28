@@ -5,8 +5,9 @@ Senior ou Junior.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-* Java
-* Spring Boot
+<img src="https://img.shields.io/badge/-Java-%23333?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
+<br>
+<img src="https://img.shields.io/badge/-Spring-%23333?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
 
 ## 🛠️ Abrir e rodar o projeto
 
